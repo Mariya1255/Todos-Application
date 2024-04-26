@@ -121,3 +121,5 @@ console.log('\n Task at index no. ${update_task_index.index} updated successfull
 
 
  main();
+
+ console.log('THE END');
